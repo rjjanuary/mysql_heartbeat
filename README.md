@@ -1,6 +1,6 @@
 # What is this?
 * Most MySQL heartbeat implementations require an external script or daemon process.  I would rather avoid that if possible.  As such, this is a pure MySQL implementation. 
-* Tested on Percona Server 5.7, however should work with any MySQL variant down to 5.6.
+* Tested on Percona Server 5.7, however should work with any MySQL variant down to at least 5.6.
 
 # How do I use it?
 * The only prerequisite is that you have the MySQL event scheduler enabled.
