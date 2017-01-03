@@ -1,3 +1,4 @@
+create database dbatools;
 use dbatools;
 
 drop trigger if exists before_update_heartbeat;
